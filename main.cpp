@@ -2,5 +2,6 @@
 #include "questionnaire.h"
 int main()
 {
+    new
     questions();
 }
