@@ -2,7 +2,7 @@
 #include "questionnaire.h"
 int main()
 {
-    cout << "new line plus ";
+    cout << "bob";
     cout << "this is now";
     questions();
 }
