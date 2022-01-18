@@ -2,6 +2,6 @@
 #include "questionnaire.h"
 int main()
 {
-    cout << "hi";
+    cout << "hi bob";
     questions();
 }
