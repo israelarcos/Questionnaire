@@ -3,5 +3,4 @@
 int main()
 {
     questions();
-    cout << "test";
 }
